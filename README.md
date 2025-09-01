@@ -1,4 +1,4 @@
-# Vector-Drawing-App
+# Vector Drawing App
 
 ## Project Description
 This project is a simplified vector graphics editor implemented in **Python**.
@@ -18,3 +18,9 @@ The project was developed as part of an academic project.
   - Save drawings and continue editing later.
   - Export canvas as an image.
   - Clear canvas to start a new drawing.
+
+## ✨ Extensions Implemented
+1. **Multi Object Selection & Movement** - Select several objects on the canvas and move them together.
+2. **Gradient Fill** - Fill shapes with a smooth gradient between two colors.
+3. **Image Uploading** - Import images onto the canvas, move them, and draw over them.
+4. **Text Styling** - Change text style to **bold**, *italic*, or <u>underlined</u>.
