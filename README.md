@@ -6,7 +6,7 @@ The program allows users to draw, edit, and manipulate vector-based shapes, text
 
 The project was developed as part of an academic project.
 
-## 🎨 Main Features
+## Main Features
 - **Graphical User Interface (GUI)** - clean and intuitive.
 - **Drawing Canvas** - central board where users can draw and edit.
 - **Shapes:** Circle, rectangle, triangle, polygons.
@@ -19,7 +19,7 @@ The project was developed as part of an academic project.
   - Export canvas as an image.
   - Clear canvas to start a new drawing.
 
-## ✨ Extensions Implemented
+## Extensions Implemented
 1. **Multi Object Selection & Movement** - Select several objects on the canvas and move them together.
 2. **Gradient Fill** - Fill shapes with a smooth gradient between two colors.
 3. **Image Uploading** - Import images onto the canvas, move them, and draw over them.
