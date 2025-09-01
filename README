@@ -1,0 +1,16 @@
+Extensions:
+1. Selecting several objects and moving them together on the canvas.The selection of the objects will be done by
+ pressing the 'Select Objects' button (the button itself is an image of a square select). After marking the desired
+  objects, using the 'move objects' button and you can drag and move the selected objects on the board.
+
+2. Gradual filling of forms. You can fill shapes with gradual filling by clicking on the 'gradual fill' button and
+ choosing two colors, and then clicking next to the shape you want to fill.
+
+3. Adding images to the canvas. You can upload images to the canvas using 'File' in the menu and then 'Upload Image'
+ (you can also move them using the 'move' button, and draw over them).
+
+4. Changing the style of the text (bold, italic, underlined). By clicking on the font style button, you can choose
+ the desired style for the text (the first empty button is normal text mode, without a special style).
+
+5. Fill with the color of a closed object. you can fill any closed object (such as triangle, circle, square,
+ and text box shapes) using the 'Fill' button and clicking on the desired object.
