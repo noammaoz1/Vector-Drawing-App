@@ -4,7 +4,7 @@
 This project is a simplified vector graphics editor implemented in **Python**.
 The program allows users to draw, edit, and manipulate vector-based shapes, text, and images through an intuitive interface.  
 
-The project was developed as part of an academic project.
+The project was developed as part of an academic project (03/2024).
 
 ## Main Features
 - **Graphical User Interface (GUI)** - clean and intuitive.
