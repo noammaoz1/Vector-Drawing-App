@@ -24,3 +24,7 @@ The project was developed as part of an academic project (03/2024).
 2. **Gradient Fill** - Fill shapes with a smooth gradient between two colors.
 3. **Image Uploading** - Import images onto the canvas, move them, and draw over them.
 4. **Text Styling** - Change text style to **bold**, *italic*, or <u>underlined</u>.
+
+
+
+![Image](https://github.com/user-attachments/assets/31de3930-ef46-4061-9a09-f550afdaec07)
